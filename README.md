@@ -1,2 +1,3 @@
-# vehicle-traffic-simulation
+# Vehicle Traffic Simulation
  
+ The objectives of this work is to construct a 3-kilometer length of highway that gradually reduces from 3 to 2 lanes after the first two kilometers. We must answer questions like the number of automobiles per kilometer in all available lanes, the number of vehicles moving per hour in all possible lanes, and the average total travel time utilizing this lane layout depending on certain parameters. We'll need to use fully electric cars with variable acceleration and deceleration ratios, as well as automated or semi-automated vehicles in our project. Using average journey time and optimal throughput, this study will assist us in understanding the behavior of various cars on roads.
